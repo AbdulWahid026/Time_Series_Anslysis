@@ -16,18 +16,9 @@ This project aims to predict housing prices using the Zillow Economic Dataset, w
 ## Getting Started
 1. Clone this repository to your local machine.
 2. Install the required dependencies listed in `requirements.txt`.
-3. Explore the Jupyter notebooks in the `notebooks/` directory to understand the data preprocessing, EDA, modeling, and prediction processes.
+3. Explore the Jupyter notebook provided to understand the data preprocessing, EDA, modeling, and prediction processes.
 4. Execute the notebooks to reproduce the analysis and results.
 5. Customize and extend the project as needed for your specific requirements.
-
-## Dependencies
-- Python 3.x
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- Statsmodels
-- Prophet
 
 ## Acknowledgements
 - The Zillow Economic Dataset is sourced from [Zillow Research](https://www.zillow.com/research/data/).
