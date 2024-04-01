@@ -1,8 +1,6 @@
-Dependencies
 Python 3.x
 NumPy
 Pandas
 Matplotlib
 Scikit-learn
 Statsmodels
-Prophet
