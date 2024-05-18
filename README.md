@@ -1,4 +1,4 @@
-# Time_Series_Anslysis
+# Time_Series_Analysis
 Time series analysis involves analyzing and modeling data that is indexed in time order. In this context, the Zillow dataset represents a time series, where housing prices are recorded at successive equally spaced points in time. Time series analysis allows us to understand patterns, trends, and seasonality in the data, ultimately enabling us to make predictions about future values.
 
 # Zillow Housing Price Prediction Project
